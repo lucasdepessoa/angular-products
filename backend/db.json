@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook ASUS",
+      "price": 2580.99
+    },
+    {
+      "id": 2,
+      "name": "SmartWatch Apple",
+      "price": 4958.99
+    },
+    {
+      "id": 3,
+      "name": "SmartPhone Samsung",
+      "price": 1780.85
+    }
+  ]
+}
