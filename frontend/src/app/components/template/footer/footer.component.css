@@ -1,0 +1,19 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+
+  display: flex;
+  justify-content: center;
+}
+
+.footer > span {
+  font-size: 1.1rem;
+  font-weight: 300;
+}
+
+a.link-copyright{
+  text-decoration: none;
+  color: rgb(52 32 32);
+  font-weight: normal;
+}
+
