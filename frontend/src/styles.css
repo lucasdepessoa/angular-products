@@ -7,7 +7,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 /* In this file, I can set global style settings */
 
 .red {
-  color: rgb(227,94,107);
+  color: #e35e6b;
 }
 
 .v-middle{
